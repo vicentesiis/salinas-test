@@ -1,0 +1,6 @@
+framework module Pods_salinas_test {
+  umbrella header "Pods-salinas-test-umbrella.h"
+
+  export *
+  module * { export * }
+}

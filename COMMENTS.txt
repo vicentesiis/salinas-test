@@ -1,0 +1,15 @@
+* Arquitectura: Utilice MVC, ya que es la arquitectura que te provee Apple nativamente y la más fácil de implementar para este proyecto.
+
+* Librerías:
+	- Alamofire: Se encarga de realizar las peticiones HTTP a el servidor, agiliza la tarea de el consumo de Rest APIs.
+	- Realm: Librería para persistir los datos, es mucho más rápido que SQLite y Core Data.
+
+* Mejoras:
+	- Mejorar la UI.
+	- Agregar animaciones.
+	- Aprovechamiento de el controlador de versiones.
+
+* Problemas encontrados:
+	- La unificación entre Realm, Alamofire y Codable, los resolvi investigando.
+	
+
